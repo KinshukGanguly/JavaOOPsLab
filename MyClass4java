@@ -1,0 +1,13 @@
+import java.util.Scanner;
+class MyClass4
+{
+public static void main(String args[])
+{int sub1=60;
+ int sub2=40;
+ if(sub1>=50&&sub2<=50)
+  System.out.println("True");
+ else
+   System.out.println("False");
+ 
+}
+}
